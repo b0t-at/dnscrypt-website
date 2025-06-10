@@ -1,6 +1,11 @@
+# Attention
+This is a GitHub-hosted mirror of the official site, as it's currently unavailable.  
+For the most up-to-date information, please refer to the official site dnscrypt.info once it's available again, as this repository may not be up to date.
+
 # dnscrypt-website
 
 > DNSCrypt website
+>
 
 ## Build Setup
 
